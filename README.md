@@ -1,2 +1,1 @@
-# godot
-Godotning to'lig'i
+Godotni torrent fayl orqali yuklab oling.
